@@ -53578,10 +53578,10 @@ s=s.gn(s)
 r=t.w
 q=b.a_(r).f.a.a
 r=b.a_(r).f.a.b
-r=(q>r?r:q)*0.6
+r=(q>r?r:q)*0.8
 if(r>600)r=600
 q=t.fQ
-return new M.td(T.a3H(new T.ym(C.o,C.eW,C.eX,C.ek,o,C.fF,o,H.b([new L.qr(r,s,o),new N.CT(p.f,new F.a_A(p),C.k,P.aG(140,255,255,255),o),T.Cn(o,24,o),new T.C_(C.m,C.eW,C.eX,C.ek,o,C.fF,o,H.b([L.a9N("This is Flutter port of \ud55c\uae00\uc2dc\uacc4 (https://hangulclock.today)",A.o9(o,o,new R.el(C.j,C.k).ad(0,p.e.gbB()),o,o,o,o,o,o,o,o,24,o,o,o,o,!0,o,o,o,o,o,o,o),o),T.Cn(o,o,12),new X.zh(48,o)],q),o)],q),o),o,o),n,o)}}
+return new M.td(T.a3H(new T.ym(C.o,C.eW,C.eX,C.ek,o,C.fF,o,H.b([new L.qr(r,s,o),new N.CT(p.f,new F.a_A(p),C.k,P.aG(140,255,255,255),o),T.Cn(o,24,o),new T.C_(C.m,C.eW,C.eX,C.ek,o,C.fF,o,H.b([L.a9N("This is Flutter port of \ud55c\uae00\uc2dc\uacc4 (https://hangulclock.today)",A.o9(o,o,new R.el(C.j,C.k).ad(0,p.e.gbB()),o,o,o,o,o,o,o,o,16,o,o,o,o,!0,o,o,o,o,o,o,o),o),T.Cn(o,o,8),new X.zh(32,o)],q),o)],q),o),o,o),n,o)}}
 F.a_C.prototype={
 $0:function(){this.a.aw(new F.a_B())},
 $C:"$0",
